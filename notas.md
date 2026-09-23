@@ -1,0 +1,1 @@
+3 cosas que he aprendido en esta practica: Como crear una cuenta en github, Como empezar a usar VS Code, Como emparejar github con VS Code, Como navegar dentro de VS Code
